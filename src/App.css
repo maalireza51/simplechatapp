@@ -104,6 +104,11 @@
    	    color: #a3afb7
    	}
 
+	.panel-body{
+		height: 75vh;
+		overflow: auto;
+	}
+
    	.panel-footer {
    	    padding: 0 30px 15px;
    	    background-color: transparent;
