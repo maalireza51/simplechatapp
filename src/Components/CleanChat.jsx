@@ -19,6 +19,7 @@ export default class CleanChat extends Component {
 
         this.handleSubmit = this.handleSubmit.bind(this);
         this.handelScroll = this.handelScroll.bind(this);
+        this.fetchMessages = this.fetchMessages.bind(this);
     }
 
 
